@@ -2,9 +2,9 @@
 
 ## Introduction
 
-If you are reading this probably you know Hacker News, an aggregation platform for computer science, start-ups, ..., created and mantained by Y Combinator Startup Accelerator.
+If you are reading this probably you know Hacker News, an aggregation platform for computer science, start-ups, etc created and mantained by __Y Combinator Startup Accelerator__.
 
-## Installation
+## Installation and usage
 
 1. Python environment 
 
