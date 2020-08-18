@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you are reading this probably you know Hacker News, an aggregation platform for computer science, start-ups, etc created and mantained by __Y Combinator Startup Accelerator__.
+If you are reading this probably you know Hacker News, an aggregation platform for computer science, start-ups, etc. It was created and maintained by __Y Combinator Startup Accelerator__.
 
 ## Installation and usage
 
